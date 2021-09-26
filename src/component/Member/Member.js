@@ -11,8 +11,9 @@ const Member = (props) => {
     }
     return (
         <div className="add-member">
-            <h2>Select Total Actors:{props.member.length}</h2>
-            <h3>The total cost rate for the actors:{total}$</h3>
+            <h2>Select Total Actors: {props.member.length}</h2>
+            <h3>The total cost rate for the actors:</h3>
+            <h3 className="cost-rate">{total}$</h3>
             <ol>
                 {member.map(name =>{return <li>{name.name}</li>})}
             </ol>
