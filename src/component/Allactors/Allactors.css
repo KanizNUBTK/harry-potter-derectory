@@ -1,5 +1,5 @@
 .all-actors{
-    background-color: rgb(245, 232, 195);
+    background: linear-gradient( rgb(240, 208, 143) 35%, rgb(247, 236, 187) 100%);
     text-align: center;
     padding: 20px;
     border-radius: 20px;

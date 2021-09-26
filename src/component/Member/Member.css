@@ -1,7 +1,6 @@
 .add-member{
     margin-top: 25px;
-    padding: 20px;
+    padding: 10px 20px;
     border-radius: 10px;
-    background-color: rgb(233, 220, 183);
-    position: fixed;
+    background: linear-gradient(  rgb(250, 242, 204) 55%,rgb(240, 208, 143) 100%);
 }
