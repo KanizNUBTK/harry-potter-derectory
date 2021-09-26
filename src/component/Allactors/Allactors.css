@@ -1,0 +1,23 @@
+.all-actors{
+    background-color: rgb(245, 232, 195);
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.img-div img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.actor-details{
+    line-height: 0.5;
+}
+.cart-btn{
+    padding: 10px 20px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(133, 103, 28);
+    cursor: pointer;
+}
