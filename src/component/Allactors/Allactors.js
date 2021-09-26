@@ -18,7 +18,7 @@ const Allactors = (props) => {
                 <h4>Age:{age}</h4>
                 <h4>Cost for acting:{cost}$</h4>
             </div>
-            <button onClick={()=>{props.handleAddToCart(props.actor)}} className="cart-btn">{shoppinCart}add to cart</button>
+            <button onClick={()=>{props.handleAddToCart(props.actor)}} className="cart-btn">{shoppinCart}add actor</button>
         </div>
     );
 };
