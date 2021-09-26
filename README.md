@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Harry-potter-direction - is a website
+It is a simple website where anyone can see the actor and actress of harry potter movie.
+The site link(https://harry-potter-moviederection.netlify.app/)
+1.Movie name "harry potter"
+2.Author name "J.K.Rowling"
+3.In this website we can see 12 actors and actress .
+4.There is add button , so you can add actors and actress.
+5.Also known total costing rate of all actors.
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

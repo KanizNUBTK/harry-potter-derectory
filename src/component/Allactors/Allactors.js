@@ -13,7 +13,7 @@ const Allactors = (props) => {
                 <h4>Role:{role}</h4>
                 <h4>Playing:{playing}</h4>
                 <h4>Age:{age}</h4>
-                <h4>Cost:{cost}</h4>
+                <h4>Cost for acting:{cost}$</h4>
             </div>
             <button onClick={()=>{props.handleAddToCart(props.actor)}} className="cart-btn">add to cart</button>
         </div>
